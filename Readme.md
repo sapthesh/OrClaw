@@ -1,5 +1,5 @@
 # OrClaw - Personal AI Assistant
-<a href="https://hits.sh/github.com/sapthesh/OrClaw/"><img alt="Hits" src="https://hits.sh/github.com/sapthesh/OrClaw.svg?view=today-total&style=for-the-badge&color=fe7d37"/></a> 
+<a href="https://hits.sh/github.com/sapthesh/OrClaw/"><img alt="Hits" src="https://hits.sh/github.com/sapthesh/OrClaw.svg?view=today-total&style=for-the-badge&color=fe7d37"/></a>  
 
 A privacy-focused personal AI assistant that integrates with your favorite chat apps and runs entirely on your own devices.
 
